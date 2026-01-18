@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurth&label=Profile%20views&color=610eb4&style=flat" alt="kurth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurth" alt="kurth" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kurth_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kurth_dev?logo=twitter&style=for-the-badge" alt="kurth_dev" /></a> </p>
 
@@ -13,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kurthdev.carrd.co/](https://kurthdev.carrd.co/)
 
-- 📝 I regularly write articles on [COMING SOON](COMING SOON)
+- 📝 I regularly write articles on [COMING SOON]
 
 - 📫 How to reach me **jhussainmahmood@gmail.com**
 

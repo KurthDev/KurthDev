@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jhussainmahmood@gmail.com**
 
-- ⚡ Fun fact **Hideo Kojima fan (yes, games can be art and weird) Absolute Kojima**
+- ⚡ Fun fact **I am Hideo Kojima fan (Kept you waiting huh ) Absolute Kojima**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,10 +30,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
+
 <p><a href="https://ko-fi.com/kurth_dev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kurth_dev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurth&show_icons=true&locale=en&layout=compact" alt="kurth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurth&show_icons=true&locale=en" alt="kurth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurth&" alt="kurth" /></p>

@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jhussainmahmood@gmail.com**
 
-- ⚡ Fun fact **Hideo Kojima fan (Kept you waiting, huh)**
+- ⚡ Fun fact **I am a Hideo Kojima fan (Kept you waiting, huh)**
 
 - 👨‍💻 All of my projects are available at **[https://kurthdev.carrd.co/](https://kurthdev.carrd.co/)**
 

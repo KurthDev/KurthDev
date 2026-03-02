@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/Kurth_Dev" target="blank"><img src="https://img.shields.io/twitter/follow/Kurth_Dev?logo=twitter&style=for-the-badge" alt="Kurth_Dev" /></a> </p>
 
-- 🔭 I'm currently working on **Tech & Socail for Concordia Game Development Club**
+- 🔭 I'm currently working on **Tech & Socials for Concordia Game Development Club**
 
 - 🌱 I'm currently learning **about the engine Unity **
 
